@@ -171,7 +171,7 @@ As of early 2025, the Groq free tier allows:
 - 30 requests per minute
 - 6,000 tokens per minute for Llama 3.3 70B
 
-One agent run uses roughly 3-6 LLM calls (1 for planning + 1 per sub-question + 1 for the report). You have plenty of headroom for demos.
+One agent run uses around 3-6 LLM calls (1 for planning + 1 per sub-question + 1 for the report).
 
 ---
 
