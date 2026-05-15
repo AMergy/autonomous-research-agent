@@ -1,0 +1,14 @@
+# Core dependencies for the autonomous research agent
+# Tested with Python 3.10+
+
+# LLM provider
+groq>=0.9.0
+
+# Web search
+ddgs>=1.0.0
+
+# web interface
+gradio>=4.36.0
+
+# Load API keys from a .env file
+python-dotenv>=1.0.0
