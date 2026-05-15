@@ -1,0 +1,18 @@
+# Never commit API key
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+research-agent/
+venv/
+.venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Gradio cache
+gradio_cached_examples/
+flagged/
